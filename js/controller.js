@@ -17,6 +17,7 @@
     countdown.resetter.addEventListener('click', countdown.reset.bind(countdown), false);
 
     // scrolling through the top returned words
+    // @TODO
     //for (i = 0; i < 2; i += 1) {
     //    this.swappers.addEventListener('click', this.scrollResults.bind(this), false);
     //}
